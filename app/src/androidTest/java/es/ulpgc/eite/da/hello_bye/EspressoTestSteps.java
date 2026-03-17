@@ -19,7 +19,7 @@ import androidx.test.uiautomator.UiDevice;
 * Created by Luis on octubre, 2023
 */
 
-class HelloByeSteps {
+class EspressoTestSteps {
 
 
   public void iniciarPantallaHello() {

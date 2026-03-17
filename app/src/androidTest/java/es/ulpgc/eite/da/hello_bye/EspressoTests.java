@@ -26,7 +26,7 @@ import es.ulpgc.eite.da.hello_bye.hello.HelloActivity;
 @LargeTest
 @FixMethodOrder(MethodSorters.NAME_ASCENDING)
 @SuppressWarnings("ALL")
-public class HelloByeTests {
+public class EspressoTests {
 
 
   @Rule
@@ -35,7 +35,7 @@ public class HelloByeTests {
 
   private Activity activity;
 
-  public HelloByeSteps steps = new HelloByeSteps();
+  public EspressoTestSteps steps = new EspressoTestSteps();
 
 
   @Before
